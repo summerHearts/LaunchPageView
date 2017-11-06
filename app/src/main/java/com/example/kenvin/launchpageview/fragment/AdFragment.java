@@ -29,6 +29,7 @@ public class AdFragment extends Fragment {
     @BindView(R.id.btn_click)
     Button btnClick;
 
+
     private int index;
 
     @Nullable

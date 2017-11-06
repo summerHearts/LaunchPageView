@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
     ViewPager viewPager;
     @BindView(R.id.llPoint)
     LinearLayout llPoint;
+
+
     private LaunchPageAdapter adapter;
     private ArrayList<Fragment> fragmentList = new ArrayList<>();
 
